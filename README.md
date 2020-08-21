@@ -1,3 +1,6 @@
+
+![image](PezdiERm.gif)
+
 ### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working on ... Novo Nordisk new datalake
