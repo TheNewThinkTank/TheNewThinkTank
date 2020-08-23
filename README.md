@@ -4,9 +4,10 @@
 ### Here is what I'm working on! 👋
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aws.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bash.svg" />
-<!--  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/simpleicons.svg" /> -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+
 
 - 🔭 I’m currently working on ... Novo Nordisk new datalake
 - 🌱 I’m currently learning ... AWS
