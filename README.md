@@ -4,9 +4,12 @@
 ### My Tech stack! 👋
 
 &ensp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> />&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 
 
 ### Here is what I'm working on! 👋
