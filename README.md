@@ -1,7 +1,7 @@
 
 <!-- ![image](PezdiERm.gif) -->
 
-My Tech stack!
+### My Tech stack! 👋
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />&nbsp;
@@ -16,7 +16,7 @@ My Tech stack!
 - ⚡ Fun fact: ... I am half Swedish
 
 - 📫 How to reach me:</br></br>
-[youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
-[website](http://newthinktank.dk/)</br>
 [LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)</br>
 [Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)</br>
+[website](http://newthinktank.dk/)</br>
+[youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
