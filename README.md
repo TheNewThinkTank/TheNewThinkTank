@@ -15,7 +15,7 @@ My Tech stack!
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Swedish
 
-- 📫 How to reach me:
+- 📫 How to reach me:</br></br>
 [youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
 [website](http://newthinktank.dk/)</br>
 [LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)</br>
