@@ -3,6 +3,9 @@
 
 ### Here is what I'm working on! 👋
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/simpleicons.svg" />
+
 - 🔭 I’m currently working on ... Novo Nordisk new datalake
 - 🌱 I’m currently learning ... AWS
 - 👯 I’m looking to collaborate on ... Python, AWS and more
