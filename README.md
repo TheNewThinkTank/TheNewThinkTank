@@ -21,5 +21,5 @@
 - 📫 How to reach me:</br></br>
 [LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)</br>
 &ensp; [Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)</br>
-[website](http://newthinktank.dk/)</br>
-&ensp; [youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
+[Website](http://newthinktank.dk/)</br>
+&ensp; [Youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
