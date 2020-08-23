@@ -12,6 +12,6 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Swedish
 
-[website](http://newthinktank.dk/)
-[LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)
-[Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)
+[website](http://newthinktank.dk/)</br>
+[LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)</br>
+[Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)</br>
