@@ -4,7 +4,7 @@
   <img width="600" height="150" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif">
 </p>
 
- ![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
+<!-- ![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
 
 ### My Tech stack!
 
