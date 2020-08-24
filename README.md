@@ -21,13 +21,11 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 </p>
 
-### Here is what I'm working on! 👋
-
 - 🔭 I’m currently working on ... Novo Nordisk new datalake
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Swedish
-
 - 📫 How to reach me:</br></br>
+
 [LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)</br>
 &ensp; [Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)</br>
 [Website](http://newthinktank.dk/)</br>
