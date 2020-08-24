@@ -1,7 +1,7 @@
 
 <!-- ![image](PezdiERm.gif) -->
 
-![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
+                ![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
 
 ### My Tech stack!
 
