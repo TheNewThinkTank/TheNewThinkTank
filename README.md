@@ -22,7 +22,7 @@
 </p>
 
 
-- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 🔭 I’m currently working on ... Novo Nordisk new datalake
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; - 🔭 I’m currently working on ... Novo Nordisk new datalake
 
 
 - 😄 Pronouns: ... He/Him
