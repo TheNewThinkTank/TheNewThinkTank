@@ -29,9 +29,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/">LinkedIn</a>
-  <!-- [LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/) -->
 </p>
 
-[Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)</br>
+<p align="center">
+  <a href="https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile">Stack Overflow</a>
+</p>
+
 [Website](http://newthinktank.dk/)</br>
 [Youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
