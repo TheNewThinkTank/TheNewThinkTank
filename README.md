@@ -35,5 +35,10 @@
   <a href="https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile">Stack Overflow</a>
 </p>
 
-[Website](http://newthinktank.dk/)</br>
-[Youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
+<p align="center">
+  <a href="http://newthinktank.dk/">Website</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?">Youtube Channel</a>
+</p>
