@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="500" height="200" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif">
+  <img width="600" height="150" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif">
 </p>
 
  ![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
