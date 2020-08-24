@@ -6,7 +6,9 @@
 
 <!-- ![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif) -->
 
-### My Tech stack!
+<p align="center">
+  ### My Tech stack!
+</p>
 
 &ensp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />&nbsp;
