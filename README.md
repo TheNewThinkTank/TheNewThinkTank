@@ -28,20 +28,8 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 📫 How to reach me:</br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/">LinkedIn</a>
-  <a href="https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile">Stack Overflow</a>
-  <a href="http://newthinktank.dk/">Website</a>
-  <a href="https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?">Youtube Channel</a>
-</p>
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile">Stack Overflow</a>
-</p>
-
-<p align="center">
-  <a href="http://newthinktank.dk/">Website</a>
-</p>
-
-<p align="center">
+  <a href="https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/">LinkedIn</a>&ensp;&ensp;
+  <a href="https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile">Stack Overflow</a>&ensp;&ensp;
+  <a href="http://newthinktank.dk/">Website</a>&ensp;&ensp;
   <a href="https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?">Youtube Channel</a>
 </p>
