@@ -1,10 +1,10 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif">
+  <img width="500" height="200" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif">
 </p>
 
-![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
+ ![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
 
 ### My Tech stack!
 
