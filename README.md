@@ -27,7 +27,10 @@
 - ⚡ Fun fact: ... I am half Swedish
 - 📫 How to reach me:</br></br>
 
-[LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)</br>
+<p align="center">
+  <[LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)>
+</p>
+
 [Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)</br>
 [Website](http://newthinktank.dk/)</br>
 [Youtube Channel](https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?)</br>
