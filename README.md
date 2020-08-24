@@ -22,7 +22,9 @@
 </p>
 
 
-- 🔭 I’m currently working on ... Novo Nordisk new datalake
+- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 🔭 I’m currently working on ... Novo Nordisk new datalake
+
+
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Swedish
 - 📫 How to reach me:</br></br>
