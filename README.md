@@ -1,5 +1,9 @@
 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif/460/300">
+</p>
+
 ![image](https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif)
 
 ### My Tech stack!
