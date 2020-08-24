@@ -28,7 +28,7 @@
 - 📫 How to reach me:</br></br>
 
 <p align="center">
-  <[LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)>
+  [LinkedIn](https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/)
 </p>
 
 [Stack Overflow](https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile)</br>
