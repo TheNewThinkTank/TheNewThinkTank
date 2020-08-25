@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="50" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/text.gif">
+  <img width="200" height="40" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/text.gif">
 </p>
 
 <!-- ### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; My Tech Stack! -->
