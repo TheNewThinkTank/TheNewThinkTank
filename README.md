@@ -1,12 +1,9 @@
 
-
 <p align="center">
-  <img width="600" height="150" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/PezdiERm.gif">
+  <img width="600" height="150" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/Vanilla-1s-280px.gif">
 </p>
 
-
-### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; My Tech Stack!
-
+<!-- ### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; My Tech Stack! -->
 
 <p align="center">
 <!-- &ensp; -->
