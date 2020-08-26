@@ -1,5 +1,9 @@
 
 <p align="center">
+  <img width="800" height="400" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/giphy.gif">
+</p>
+
+<p align="center">
   <img width="200" height="40" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/text.gif">
 </p>
 
