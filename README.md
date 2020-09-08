@@ -4,7 +4,9 @@
 </p>
 -->
 
+<p align="center">
 ![](ghost_in_a_shell.gif)
+</p>
 
 <p align="center">
   <img width="200" height="40" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/text.gif">
