@@ -4,11 +4,7 @@
 </p>
 -->
 
-<p align="center">
-  <img src="https://gifer.com/embed/ALh3" width=480 height=259.000>
-</p>
-
-
+![](ghost_in_a_shell.gif)
 
 <p align="center">
   <img width="200" height="40" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/text.gif">
