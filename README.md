@@ -1,7 +1,14 @@
-
+<!--
 <p align="center">
   <img width="800" height="400" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/giphy.gif">
 </p>
+-->
+
+<p align="center">
+  <img width="800" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F805229608351329801%2F&psig=AOvVaw2DRKWd7zXwh7G3QRlFpJKU&ust=1599671570034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC_2o-H2usCFQAAAAAdAAAAABAD">
+</p>
+
+
 
 <p align="center">
   <img width="200" height="40" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/text.gif">
