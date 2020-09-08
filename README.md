@@ -4,7 +4,9 @@
 </p>
 -->
 
-<iframe src="https://gifer.com/embed/ALh3" width=480 height=259.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<p align="center">
+  <img src="https://gifer.com/embed/ALh3" width=480 height=259.000>
+</p>
 
 
 
