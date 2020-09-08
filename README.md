@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-![](ghost_in_a_shell.gif)
+  <img width="800" height="400" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/ghost_in_a_shell.gif">
 </p>
 
 <p align="center">
