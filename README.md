@@ -13,18 +13,19 @@
 </p>
 
 <p align="center">
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/r.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/visualstudiocode.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/powershell.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" />&nbsp;
-<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/r.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/visualstudiocode.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/powershell.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/sqlite.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" />&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />
 </p></br>
 
 <p align="center">
