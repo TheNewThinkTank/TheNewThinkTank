@@ -20,7 +20,8 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" /> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/powershell.svg" />
 </p></br>
 
 <p align="center">
