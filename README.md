@@ -15,6 +15,7 @@
 <p align="center">
 <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
 <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />&nbsp;
+<img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/r.svg" />&nbsp;
 <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />&nbsp;
 <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />&nbsp;
 <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/visualstudiocode.svg" />&nbsp;
