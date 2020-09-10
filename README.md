@@ -23,12 +23,6 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" /> 
 </p></br>
 
-
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 🔭 I’m currently working on ... Novo Nordisk new datalake</br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 😄 Pronouns ... He/Him</br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ⚡ Fun fact ... I am half Swedish</br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 📫 How to reach me:</br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/">LinkedIn</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://stackoverflow.com/users/7445528/gustav-rasmussen?tab=profile">Stack Overflow</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
