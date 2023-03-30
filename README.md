@@ -1,14 +1,7 @@
-<!-- <p align="center">
-  <img width="800" height="400" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/giphy.gif">
-</p> -->
 
 <p align="center">
   <img width="800" height="400" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/ghost_in_a_shell.gif">
 </p>
-
-<!-- <p align="center">
-  <img width="200" height="40" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/text.gif">
-</p> -->
 
 <p align="center">
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
@@ -35,5 +28,4 @@
 
 <p align="center">
   <img src="https://www.codewars.com/users/Gustav-Rasmussen/badges/large" />
-  <!--![codewars](https://www.codewars.com/users/Gustav-Rasmussen/badges/large)-->
 </p>
