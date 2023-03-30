@@ -34,6 +34,6 @@
 </p>
 
 <p align="center">
-  CODEWARS:
-  ![codewars](https://www.codewars.com/users/Gustav-Rasmussen/badges/large)
+  <img src="https://www.codewars.com/users/Gustav-Rasmussen/badges/large" />
+  <!--![codewars](https://www.codewars.com/users/Gustav-Rasmussen/badges/large)-->
 </p>
