@@ -32,3 +32,7 @@
   <a href="http://newthinktank.dk/">Website</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?">Youtube</a>
 </p>
+
+codewars
+https://www.codewars.com/users/Gustav-Rasmussen/badges/large
+
