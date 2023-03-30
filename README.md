@@ -27,5 +27,5 @@
 
 <p align="center">
   <img src="https://www.codewars.com/users/Gustav-Rasmussen/badges/large" />&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  <a href="https://stackexchange.com/users/10072351"><img src="https://stackexchange.com/users/flair/10072351.png" width="208" height="58" alt="profile for Gustav Rasmussen on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gustav Rasmussen on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  <a href="https://stackexchange.com/users/10072351"><img src="https://stackexchange.com/users/flair/10072351.png?theme=dark" width="208" height="58" alt="profile for Gustav Rasmussen on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gustav Rasmussen on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>
