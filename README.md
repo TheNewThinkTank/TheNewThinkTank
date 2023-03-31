@@ -20,6 +20,8 @@
 </p></br>
 
 <p align="center">
+  <a href="https://bitbucket.org/Gustav_Collin_Rasmussen/workspace/overview">bitbucket</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  <a href="https://gitlab.com/TheNewThinkTank">gitlab</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/">LinkedIn</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="http://newthinktank.dk/">Website</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://www.youtube.com/channel/UCFdvrL3KjfK7X5UQqzv3qGQ?">Youtube</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
