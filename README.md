@@ -28,7 +28,8 @@
   <a href="https://app.datacamp.com/profile/gcr84">DataCamp</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://www.hackerrank.com/gcr84">HackerRank</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://www.kaggle.com/gustavrasmussen84">Kaggle</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  <a href="https://leetcode.com/GustavRasmussen/">LeetCode</a>  
+  <a href="https://leetcode.com/GustavRasmussen/">LeetCode</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  <a href="https://medium.com/@GustavCollinRasmussen">Medium</a>
 </p>
 
 <p align="center">
