@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/stars/TheNewThinkTank/lists/health-stack)">🥇 Health stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+    <a href="https://github.com/stars/TheNewThinkTank/lists/health-stack">🥇 Health stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
