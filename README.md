@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img width="800" height="400" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/ghost_in_a_shell.gif">
-</p>
+</p> -->
 
 <p align="center">
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />&nbsp;
@@ -30,7 +30,8 @@
   <a href="https://www.kaggle.com/gustavrasmussen84">Kaggle</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://leetcode.com/GustavRasmussen/">LeetCode</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://learn.acloud.guru/profile/gcr">A Cloud Guru</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  <a href="https://medium.com/@GustavCollinRasmussen">Medium</a>
+  <a href="https://medium.com/@GustavCollinRasmussen">Medium</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  <a href="https://karatenews.dk/nystartet-fuld-kontakt-karate-klub-vinder-sit-forste-international-mesterskab-i-fuld-kontakt-kampsport/">Karate News</a>
 </p>
 
 <p align="center">
