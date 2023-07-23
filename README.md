@@ -1,4 +1,4 @@
-[![GitHub repo size](https://img.shields.io/github/repo-size/TheNewThinkTank/TheNewThinkTank?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/TheNewThinkTank/TheNewThinkTank/archive/refs/heads/main.zip)
+<!-- [![GitHub repo size](https://img.shields.io/github/repo-size/TheNewThinkTank/TheNewThinkTank?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/TheNewThinkTank/TheNewThinkTank/archive/refs/heads/main.zip) -->
 
 <!-- <p align="center">
   <img width="800" height="400" src="https://github.com/Gustav-Rasmussen/Gustav-Rasmussen/blob/master/ghost_in_a_shell.gif">
