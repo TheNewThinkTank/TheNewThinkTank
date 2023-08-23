@@ -32,6 +32,7 @@
   <a href="https://leetcode.com/GustavRasmussen/">LeetCode</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://learn.acloud.guru/profile/gcr">A Cloud Guru</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://medium.com/@GustavCollinRasmussen">Medium</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  <a href="https://www.echojs.com/user/GustavRasmussen">echojs</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://karatenews.dk/nystartet-fuld-kontakt-karate-klub-vinder-sit-forste-international-mesterskab-i-fuld-kontakt-kampsport/">Karate News</a>
 </p>
 
