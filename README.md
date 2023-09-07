@@ -21,6 +21,7 @@
 </p></br>
 
 <p align="center">
+  <a href="https://asciinema.org/~gustavrasmussen">asciinema</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://bitbucket.org/Gustav_Collin_Rasmussen/workspace/overview">bitbucket</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://gitlab.com/TheNewThinkTank">gitlab</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <a href="https://www.linkedin.com/in/gustav-collin-rasmussen-700a192a/">LinkedIn</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
