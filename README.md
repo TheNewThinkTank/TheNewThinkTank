@@ -46,5 +46,6 @@
 <p align="center">
     <a href="https://github.com/stars/TheNewThinkTank/lists/astro-physics-stack">🚀 Astro Physics stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
     <a href="https://github.com/stars/TheNewThinkTank/lists/health-stack">🥇 Health stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+    <a href="https://github.com/stars/TheNewThinkTank/lists/k8s-stack">☸️ K8S stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
     <a href="https://github.com/stars/TheNewThinkTank/lists/pypi-stack">🐍 PyPI stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
