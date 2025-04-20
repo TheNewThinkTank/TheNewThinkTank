@@ -43,6 +43,10 @@
   <a href="https://stackexchange.com/users/10072351"><img src="https://stackexchange.com/users/flair/10072351.png?theme=dark" width="208" height="58" alt="profile for Gustav Rasmussen on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gustav Rasmussen on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cff0c7f8-84d7-4274-bbe6-4039b817d634" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e2a85ae4-692a-4f3e-83e2-35f8b10c803b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p align="center">
     <a href="https://github.com/stars/TheNewThinkTank/lists/astro-physics-stack">🚀 Astro Physics stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
     <a href="https://github.com/stars/TheNewThinkTank/lists/health-stack">🥇 Health stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
