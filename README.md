@@ -49,3 +49,16 @@
     <a href="https://github.com/stars/TheNewThinkTank/lists/k8s-stack">☸️ K8S stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
     <a href="https://github.com/stars/TheNewThinkTank/lists/pypi-stack">🐍 PyPI stack</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
+
+### GitHub Stats
+
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheNewThinkTank&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewThinkTank&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
